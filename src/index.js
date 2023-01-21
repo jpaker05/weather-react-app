@@ -15,6 +15,10 @@ root.render(
       <h1>Weather App</h1>
       <Weather />
     </div>
+    <footer>
+      This website was coded by Jessica Paker and is{" "}
+      <a href="https://github.com/jpaker05/weather-react-app"> open-sourced </a>{" "}
+    </footer>
   </React.StrictMode>
 );
 
