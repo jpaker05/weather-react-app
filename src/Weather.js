@@ -3,7 +3,7 @@ import axios from "axios";
 import "./Weather.css";
 
 export default function Weather() {
-  let weatherData = {
+  const weatherData = {
     city: "New York",
     temperature: 19,
     date: "Tuesday 10:00",
